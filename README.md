@@ -1,4 +1,4 @@
 project-site-test
 =================
 
-First of unlimited project sites, starting from scratch
+Unlimited project sites; this one is a test
